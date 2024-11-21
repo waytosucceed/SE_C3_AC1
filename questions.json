@@ -1,0 +1,63 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Which of the following numbers is divisible by 6?",
+      "options": [
+        "25",
+        "35",
+        "42",
+        "55"
+      ],
+      "correct": 2,
+      "explanation": "A number is divisible by 6 if it is divisible by 2 and 3 both. 42 is even and the sum of its digits (4+2=6) is divisible by 3."
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Which of the following pairs are twin primes?",
+      "options": [
+        "3, 5",
+        "11, 13",
+        "15, 17",
+        "Both A and B option"
+      ],
+      "correct": 3,
+      "explanation": "Twin primes are pairs of prime numbers with a difference of 2, (3, 5) and (11, 13) satisfy this condition."
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Which of the following numbers is divisible by 11?",
+      "options": [
+        "273",
+        "462",
+        "123",
+        "333"
+      ],
+      "correct": 1,
+      "explanation": "A number is divisible by 11 if the difference between the sum of its alternate digits is 0 or divisible by 11. For 462 : (4+2)-6=0."
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Which of these numbers is not divisible by both 8 and 9?",
+      "options": [
+        "72",
+        "64",
+        "360",
+        "504"
+      ],
+      "correct": 1,
+      "explanation": "A number divisible by 8 must have the last 3 digits divisible by 8, and for divisibility by 9, the sum of its digits must be divisible by 9. 144 satisfies both conditions."
+    },
+    {
+      "questionNo": "Q5",
+      "question": "Which of the following numbers is not a prime number?",
+      "options": [
+        "23",
+        "41",
+        "49",
+        "59"
+      ],
+      "correct": 2,
+      "explanation": "49=7x7, so it is not a prime. The others have only 1 and themselves as divisors."
+    }
+  ]
+  
